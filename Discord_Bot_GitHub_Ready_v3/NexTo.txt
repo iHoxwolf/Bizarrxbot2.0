@@ -1,0 +1,40 @@
+Comandos ADMIN/MOD
+
+addcoloroles addrole ban crole drole editembed editsay hackban kick mute nickname purge remrole sdm softban tempmute unban unmute unwarn warn
+
+Comandos de Búsqueda
+
+anime gimages giphy lyrics manga wiki youtube
+
+Comandos de Configuración
+
+approve config deny disable enable ignorechannel maybe setautorole setchannel setconfessions setleave setleavechannel setlogs setmodrole setprefix setreports setsuggestions setwelcome setwelcomechannel
+
+Comandos Divertidos
+
+8ball achievement ascii bigtext cat choose coinflip confession esay horoscope husbando license love machievement meme nekogirl note ranime rate reverse roll rps say trash triggered trump waifu
+
+Comandos Informativos
+
+about botinfo botsuggestion bugreport donate help infonodm invite nodmhelp ping release servers support vote
+
+Comandos de Interacción
+
+baka bite cheeks claps cook cookie cuddle dance feed handholding hi highfive hug kickbutts kill kiss laugh lick pat poke punch run scared slap sleep splash spray tickle tsundere
+
+Comandos de Juegos
+
+osu pokedex
+
+Comandos NSFW
+
+boobjob cum fuck gmasturbate hnekogirl konachan r34 rahentai suck urban
+
+Comandos de Reacción
+
+angry banghead blush boom bored confused cry dab discouraged disgust facepalm fbi game happy jpose lewd like nope pout shrug sing sip smug think vomit
+
+Comandos Útiles
+
+
+avatar botinvite calc channellist hexcolor jumbo morse question randomuser reportuser rolelist servericon serverinfo shortlink suggest translate userinfo weather
