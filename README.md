@@ -56,7 +56,9 @@ node index.js
 Actualmente el bot responde al comando:
 
 ```
-!ping
+b!ping
+
+"b!ejemplo"
 ```
 
 Y responderá con:
