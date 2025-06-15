@@ -178,7 +178,7 @@ module.exports = {
         
             // Si hay un gif en la lista, envíalo con un mensaje personalizado
             if (randomGif) {
-              message.channel.send(`> <@${message.author.id}> ha golpeado a <@${targetUser.id}> D:!\n`); +
+              message.channel.send(`> <@${message.author.id}> ha golpeado a <@${targetUser.id}> D:!\n`);
               message.channel.send(randomGif);
               usedGifs.add(randomGif); //hacemos uso del used gif
             } else {
@@ -225,7 +225,7 @@ module.exports = {
 
           if (mentionedUser) {
             // Si se menciona a un usuario, envía un mensaje personalizado
-            message.channel.send(` > <@${message.author.id}> Esta enfadadisimx con <@${targetUser.id}> D:!\n`);
+            message.channel.send(` > <@${message.author.id}> Esta enfadadisimx con <@${mentionedUser.id}> D:!\n`);
             message.channel.send(randomGif);
           } else {
             
@@ -463,7 +463,7 @@ module.exports = {
             // Banear al usuario
             miembro.ban({ reason: 'Razón del ban.' })
               .then(() => {
-                message.channel.send(`Usuario <@${targetUser.id}> ha sido baneado.`);
+                message.channel.send(`Usuario <@${usuario.id}> ha sido baneado.`);
               })
               .catch((error) => {
                 console.error(error);
