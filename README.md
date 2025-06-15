@@ -1,3 +1,5 @@
+++ Probando codex (chatgpt) ++
+
  Discord Bot 🤖
 
 Este proyecto es un bot de Discord desarrollado con **Node.js** y la librería **discord.js**.
